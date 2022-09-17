@@ -1,2 +1,2 @@
 # Udemy-Website
-udemy website using Html, Bootstrap, Css, Sass, and  Javascript 
+udemy website using Html, Bootstrap, Css, Scss, and  Javascript 
